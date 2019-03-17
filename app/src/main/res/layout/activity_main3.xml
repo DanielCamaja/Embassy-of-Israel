@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".Main3Activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Atención Consular"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Para consultas consulares favor comunicarse al correo embisrael@minex.gob.gt o al
+teléfono (pendiente de ser instalado)
+
+En caso de alguna emergencia (solamente para ciudadanos guatemaltecos) favor
+llamar desde la aplicación (activar función) o al teléfono 0539354567.
+"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Visas"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To all the foreigners interested to apply for a Guatemala visa must apply for a
+previous interview.
+
+You can contact us to the next email embisrael@minex.gob.gt
+Requirements
+( Please check your country to know if you need visa or no in our link
+http://www.minex.gob.gt/Visor_Pagina.aspx?PaginaID=21))"
+        />
+
+
+</LinearLayout>
